@@ -1,4 +1,4 @@
 # Python-Fundamentals
 This is my first Git Repository
 <br>
--Autor Hanzala Naseem
+-Autor Hanzala Naseem Qurashi
